@@ -1,24 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WNNtODh9IoM=",
+  "dgSpecHash": "CBWMDOBq+so=",
   "success": true,
   "projectFilePath": "D:\\api\\HelloApi\\HelloApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vanshika\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "C:\\Users\\Vanshika\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Vanshika\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vanshika\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "HelloApi depends on Microsoft.AspNetCore.OpenApi (>= 8.0.412) but Microsoft.AspNetCore.OpenApi 8.0.412 was not found. Microsoft.AspNetCore.OpenApi 9.0.0 was resolved instead.",
-      "projectPath": "D:\\api\\HelloApi\\HelloApi.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\api\\HelloApi\\HelloApi.csproj",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }
